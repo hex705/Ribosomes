@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For RNA
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+rnaChange 	KEYWORD1
+rnaFilter	KEYWORD1
+
+#######################################
+# Functions (KEYWORD2)
+#######################################
+
+
+changed         KEYWORD2
+setPin		KEYWORD2
+getPin		KEYWORD2
+trigger		KEYWORD2
+poll		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+

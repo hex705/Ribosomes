@@ -70,3 +70,15 @@
 
 		return edge;
    	} // end changed 
+
+
+
+ // ***********************************************************************************
+
+rnaThreshold::rnaThreshold( int i )
+    {
+		// nothing 
+    aVariable = i ;
+	}
+	
+	

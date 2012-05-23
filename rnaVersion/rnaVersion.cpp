@@ -15,11 +15,16 @@
 		fileName = s;
 	}
 	
-	void rnaFileName::getFileName(){
-        
+	void rnaFileName::printFileName(){
 	    Serial.print("File: ");
 	    Serial.println(fileName);
 	}
+
+    String rnaFileName::which(){
+        if (fileName != null) {
+        return (fileName);
+        }
+    }
 
 
 

@@ -36,4 +36,16 @@ private:
 
 }; // end class rnaChange
 
+class rnaThreshold 
+{
+    
+public:
+	// constructor
+	rnaThreshold( int );
+	
+private:
+    int aVariable;
+
+}; // end class rnaChange
+
 # endif   // end #ifndef rnaFilter_h

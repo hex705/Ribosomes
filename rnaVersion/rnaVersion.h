@@ -18,8 +18,9 @@ class rnaFileName
 {
 public:
 	rnaFileName(String); 
-	void getFileName();
-	String fileName;
+	void printFileName();
+	String which();
+    String fileName;
 	
 }; // end class fileID
 
